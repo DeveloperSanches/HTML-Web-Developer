@@ -1,0 +1,6 @@
+TAG <IMG>
+    <SVG>
+    <AUDIO>
+    <video>
+    <Track>
+    <iframe>
